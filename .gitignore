@@ -1,0 +1,15 @@
+﻿# MATLAB
+*.asv
+*.m~
+*.mat
+*.mex*
+*.fig
+*.p
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
